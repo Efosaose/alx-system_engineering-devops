@@ -1,0 +1,5 @@
+
+
+#!/bin/bash (always first)
+pwd (which is the command that prints the current working directory)
+
